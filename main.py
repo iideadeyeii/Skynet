@@ -19,8 +19,8 @@ from stability_sdk import client
 import stability_sdk.interfaces.gooseai.generation.generation_pb2 as generation
 from time import sleep
 
-pv_access_key = "QxI3hdPlXsoQxvZGOXHIzsFjCUsq54eEImH3PhsaIA6zCdtFCq5GoQ=="
-stability_api_key = "sk-9fr1k7CCQOovuvABbHNQU1JGf1jTtzcQ9kSpREgFrgJkJALI"
+pv_access_key = "API KEY"
+stability_api_key = "API KEY"
 
 audio_stream = None
 cobra = None
