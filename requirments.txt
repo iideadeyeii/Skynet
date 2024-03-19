@@ -1,0 +1,6 @@
+pyaudio
+pvrecorder
+pvporcupine
+pvcobra
+pvleopard
+schedule
